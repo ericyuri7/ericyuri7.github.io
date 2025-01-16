@@ -1,1 +1,17 @@
-# ericyuri7.github.io
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Page Title</title>
+</head>
+
+<body>
+
+    <h1>Bem vindo</h1>
+    <h2>este é minha primeira página</h2>
+    <p>meu nome é eric yuri, este é o meu começo na programação</p>
+    <p>feito por Eric Yuri Antunes Cabral</p>
+
+</body>
+
+</html>
